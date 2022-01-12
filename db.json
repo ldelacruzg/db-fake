@@ -2,6 +2,7 @@
   "users": [{
     "id": 1,
     "userName": "ldelacruz",
+    "password": "123456",
     "name": "Luis",
     "lastName": "De La Cruz",
     "role": "admin",
@@ -10,6 +11,7 @@
   {
     "id": 2,
     "userName": "acontreras",
+    "password": "123456",
     "name": "Ana",
     "lastName": "Contreras",
     "role": "user",
